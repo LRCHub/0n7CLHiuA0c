@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "愛を知るまでは",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-29T15:28:31.081113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛を知るまでは",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_愛を知るまでは_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛を知るまでは - Till I Know What Love Is (I'm Never Gonna Die)",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_愛を知るまでは_-_Till_I_Know_What_Love_Is_(I'm_Never_Gonna_Die)_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛を知るまでは",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_愛を知るまでは_あいみょん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛を知るまでは",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_01_愛を知るまでは_あいみょん.lrc",
+      "repo_name": "iytiWFxt09w"
+    }
+  ]
+}
